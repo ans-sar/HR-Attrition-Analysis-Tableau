@@ -1,4 +1,6 @@
 # HR-Attrition-Analysis-Tableau
+![Screenshot (17)](https://github.com/user-attachments/assets/e3d9ea0f-dc64-4826-af5c-667d8727c6fb)
+
 ![Screenshot (21)](https://github.com/user-attachments/assets/2e76e233-a92e-4f36-8294-b1235ee702de)
 ![Screenshot (18)](https://github.com/user-attachments/assets/a3839b59-3f1f-4953-9a63-a0f6e39d488a)
 ![Screenshot (19)](https://github.com/user-attachments/assets/3f1d00c3-9a0d-4dcf-877f-97e26fb8b94a)
